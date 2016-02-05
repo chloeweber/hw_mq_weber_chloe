@@ -1,0 +1,21 @@
+body {
+    background-color: #996699;
+}
+
+@media (max-width: 1080px) {
+    body {
+        background-color: #ff9900;
+    }
+}
+
+@media (max-width: 550px) {
+    body {
+        background-color: #9900ff;
+    }
+}
+
+@media (max-width: 400px) {
+    body {
+        background-color: #00ccff;
+    }
+}
