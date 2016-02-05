@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+
+@media (min-width: 675px) {
+    body {
+        background-color: #ff0000;
+    }
+}
+
+@media (min-width: 999px) {
+    body {
+        background-color: magenta;
+    }
+}
+
+@media (min-width: 1280px) {
+    body {
+        background-color: #99ff99;
+    }
+}
